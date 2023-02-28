@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xfI4Ye60cFI0dM10zvV6dlCNlO31ULR5WOqD44z6K3AxnxtehO8JXZR9Jw9fpFMo3IZEEdP6zgGLNLSMh0pKgA==",
+  "dgSpecHash": "F4Szrvr+3oxCIeN/5FZ83AfneAGl5hp069IvkMkDI5JsI4r2jbAoH78b11eUdGrGyFpNR6BSYAUDv2GS4D4Opw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henrique.bsouza3\\source\\repos\\miniprojeto\\miniprojeto\\miniprojeto.csproj",
+  "projectFilePath": "C:\\Users\\henrique.bsouza3\\Documents\\GitHub\\Miniprojeto\\miniprojeto\\miniprojeto\\miniprojeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henrique.bsouza3\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\henrique.bsouza3\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

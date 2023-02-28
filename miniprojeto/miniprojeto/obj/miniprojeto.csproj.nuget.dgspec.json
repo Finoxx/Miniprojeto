@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\henrique.bsouza3\\source\\repos\\miniprojeto\\miniprojeto\\miniprojeto.csproj": {}
+    "C:\\Users\\henrique.bsouza3\\Documents\\GitHub\\Miniprojeto\\miniprojeto\\miniprojeto\\miniprojeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\henrique.bsouza3\\source\\repos\\miniprojeto\\miniprojeto\\miniprojeto.csproj": {
+    "C:\\Users\\henrique.bsouza3\\Documents\\GitHub\\Miniprojeto\\miniprojeto\\miniprojeto\\miniprojeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\henrique.bsouza3\\source\\repos\\miniprojeto\\miniprojeto\\miniprojeto.csproj",
+        "projectUniqueName": "C:\\Users\\henrique.bsouza3\\Documents\\GitHub\\Miniprojeto\\miniprojeto\\miniprojeto\\miniprojeto.csproj",
         "projectName": "miniprojeto",
-        "projectPath": "C:\\Users\\henrique.bsouza3\\source\\repos\\miniprojeto\\miniprojeto\\miniprojeto.csproj",
+        "projectPath": "C:\\Users\\henrique.bsouza3\\Documents\\GitHub\\Miniprojeto\\miniprojeto\\miniprojeto\\miniprojeto.csproj",
         "packagesPath": "C:\\Users\\henrique.bsouza3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\henrique.bsouza3\\source\\repos\\miniprojeto\\miniprojeto\\obj\\",
+        "outputPath": "C:\\Users\\henrique.bsouza3\\Documents\\GitHub\\Miniprojeto\\miniprojeto\\miniprojeto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
